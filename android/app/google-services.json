@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348319121078",
+    "project_id": "coffeshop-c7d42",
+    "storage_bucket": "coffeshop-c7d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348319121078:android:7ed1783e148211bd03f017",
+        "android_client_info": {
+          "package_name": "com.teit.coffee_shop.donutcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348319121078-bco98qafucujt6ksva825d9ko5nh0de4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqzWt0YlusAtIyDg8ZxysthrpIbCQJFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348319121078-bco98qafucujt6ksva825d9ko5nh0de4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
