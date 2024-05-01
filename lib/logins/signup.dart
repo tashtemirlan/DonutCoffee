@@ -214,7 +214,7 @@ class SignUpPageState extends State<SignUpPage>{
                             );
                           }
                           //check on full name is not empty
-                        },style:ElevatedButton.styleFrom(primary: Colors.green), child: Text("SIGN UP " , style: GoogleFonts.comicNeue(textStyle: const TextStyle(fontSize: 18), color: Colors.white))
+                        },style:ElevatedButton.styleFrom(backgroundColor: Colors.green), child: Text("SIGN UP " , style: GoogleFonts.comicNeue(textStyle: const TextStyle(fontSize: 18), color: Colors.white))
                     ),
                     )),
                 Padding(padding: const EdgeInsets.only(top: 20 ,bottom: 10),
